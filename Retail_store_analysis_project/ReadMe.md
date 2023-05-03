@@ -1,5 +1,7 @@
 # Retail Store Analysis
-![](retail_store_image.jpg)
+Retail Store Image|
+-------------------  |
+![retail_store_image](retail_store_image.jpg)|
 
 ## Introduction
 In this analysis I investigated a hypothetical 'XYZ' retail store. The report and dashboard produced from this analysis was submitted  and presented by me at the Data Analytics and Modeling conference 2023 hosted by DBrownConsulting in Lagos, Nigeria, where my team (conprising myself and two others) won the Datathon competition. 
@@ -55,7 +57,7 @@ Profit analysis page|
 -------------------  |
 ![Profit analysis page](profit_analysis_page.PNG)|
 
-The full report and dashboard can be accessed via this: ![link](https://app.powerbi.com/view?r=eyJrIjoiMjdjNjMxNjQtYjAyYi00NTBjLWJjNjctMzcyNTA3ZGI3OWJjIiwidCI6IjRiOTYzM2MxLWZjMmEtNGU4OS05MWQ4LWU1NDA5MGM2MmY0ZSJ9&pageName=ReportSection13b5f04f44cab6e80b49)
+The full report and dashboard can be accessed via this: [link](https://app.powerbi.com/view?r=eyJrIjoiMjdjNjMxNjQtYjAyYi00NTBjLWJjNjctMzcyNTA3ZGI3OWJjIiwidCI6IjRiOTYzM2MxLWZjMmEtNGU4OS05MWQ4LWU1NDA5MGM2MmY0ZSJ9&pageName=ReportSection13b5f04f44cab6e80b49)
 
 ## Insights
 * The current year 2018 has been noted to be the company's most successful year yet, pulling 50% of the total cumulative sales of previous years. 
