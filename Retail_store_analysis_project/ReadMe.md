@@ -1,11 +1,9 @@
 # Retail Store Analysis
-![](retail_store_image.jpg)
+![](retail_store_image.jpg width="200")
 
 ## Introduction
 In this analysis I investigated a hypothetical 'XYZ' retail store. The report and dashboard produced from this analysis was submitted  and presented by me at the Data Analytics and Modeling conference 2023 hosted by DBrownConsulting in Lagos, Nigeria, where my team (conprising myself and two others) won the Datathon competition. 
-The dataset (a csv file) was provided by DBrownConsulting, is present in this repository, and can be accessed [here](Retail_Analytics.csv).
-[Dataset Screenshot](dataset_screenshot.PNG). The dataset consist of 9,995 rows and 11 columns with columns such as Order date, Sales, Profit, Discount amongst others.
-![](retail_store_image.jpg)
+The dataset (a csv file) was provided by DBrownConsulting, and consist of 9,995 rows and 11 columns with columns such as Order date, Sales, Profit, Discount amongst others.The dataset is present in this repository, and can be accessed [here](Retail_Analytics.csv).
 
 ## Problem Statement
 The aim of this project is to show my strength in data preparation, modeling, visualization, insights, pattern finding, storytelling and recommendations. This analysis answerred questions such as:
@@ -20,25 +18,44 @@ A measure table was created to house calculations (using Dax) such as calculated
 The star schema concept was applied and the data normalized into a retail fact table, and three different dimensions table named location table, customer table and category table.
 Finally, a date table called the calendar table was created to include columns such as: year, year month, year month number, quaters, month, month number.
 
-![Dataset snapshot](dataset_snapshot.PNG)
-![Retail facts table](fact_table.PNG)
+Dataset snapshot|
+-------------------  |
+![Dataset snapshot](dataset_snapshot.PNG)|
+
+Retail facts table|
+-------------------  |
+![Retail facts table](fact_table.PNG)|
+
+
 Customer dimension table | Location dimension table
 -----------------------  | -----------------------
-![Customer dimension table](customer_table.PNG)!| [Location dimension table](location_table.PNG)
+![Customer dimension table](customer_table.PNG)!| ![Location dimension table](location_table.PNG)
 
 Category dimension table | Calendar dimension table
 -----------------------  | -----------------------
 ![Category dimension table](category_table.PNG) | ![Calendar dax measure](calendar_table_dax.PNG)
 
-![Data Star Schema](data_model.PNG)
+Data Model Star Schema|
+-------------------  |
+![Data Model Star Schema](data_model.PNG)|
 
 ## Data Visualizations
 
 Snapshots of the overview, sales, profit page are shown below.
 
-![Overview page](overview_page.PNG)
-![Sales analysis page](sales_analysis_page.PNG)
-![Profit analysis page](profit_analysis_page.PNG)
+Overview page|
+-------------------  |
+![Overview page](overview_page.PNG)|
+
+Sales analysis page|
+-------------------  |
+![Sales analysis page](sales_analysis_page.PNG)|
+
+Profit analysis page|
+-------------------  |
+![Profit analysis page](profit_analysis_page.PNG)|
+
+The full report and dashboard can be accessed via this: ![link](https://app.powerbi.com/view?r=eyJrIjoiMjdjNjMxNjQtYjAyYi00NTBjLWJjNjctMzcyNTA3ZGI3OWJjIiwidCI6IjRiOTYzM2MxLWZjMmEtNGU4OS05MWQ4LWU1NDA5MGM2MmY0ZSJ9&pageName=ReportSection13b5f04f44cab6e80b49)
 
 ## Insights
 * The current year 2018 has been noted to be the company's most successful year yet, pulling 50% of the total cumulative sales of previous years. 
